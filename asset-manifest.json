@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.726f56b5.css",
+    "main.js": "/static/js/main.156e0c63.js",
+    "static/media/bgher.jpg": "/static/media/bgher.f6357c788b2fa797a636.jpg",
+    "static/media/fotoPerfil.png": "/static/media/fotoPerfil.ddedbb76644751d6de22.png",
+    "static/media/logoimg.jpg": "/static/media/logoimg.6188eda78fe65f76c7c4.jpg",
+    "static/media/kalilinux.jpeg": "/static/media/kalilinux.060dd819e92fc499dfe6.jpeg",
+    "static/media/cyberseidlogo.jpg": "/static/media/cyberseidlogo.1b9cbc46cbdea2dd0296.jpg",
+    "static/media/fotoaboutme.png": "/static/media/fotoaboutme.5c62bfea1bbc60ff07dd.png",
+    "static/media/thundercats.jpg": "/static/media/thundercats.01576f6b2a8de495b625.jpg",
+    "index.html": "/index.html",
+    "main.726f56b5.css.map": "/static/css/main.726f56b5.css.map",
+    "main.156e0c63.js.map": "/static/js/main.156e0c63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726f56b5.css",
+    "static/js/main.156e0c63.js"
+  ]
+}
